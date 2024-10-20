@@ -22,4 +22,4 @@ export const genreMap = {
   37: "Western",
 };
 
-export const API_KEY = "682127ed972e56f6bb70ae743d23c1d7";
+export const API_KEY = "93e035dfba8fed8c65f4e33f5e50df4f";

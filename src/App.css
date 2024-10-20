@@ -43,7 +43,7 @@ input {
 
 .btn {
   padding: 10px 20px 10px 20px;
-  background-color: rgb(50, 133, 201);
+  background-color: rgb(201, 50, 88);
   border-radius: 8px;
   color: white;
   transition: color 0.25s;
@@ -51,11 +51,11 @@ input {
 }
 
 .btn:hover {
-  color: #5156b3;
+  color: #b46ba9;
 }
 
 .active {
-  background-color: rgb(93, 174, 240);
+  background-color: rgb(109, 15, 38);
 }
 
 .header {
