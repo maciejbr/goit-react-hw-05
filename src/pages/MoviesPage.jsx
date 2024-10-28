@@ -28,10 +28,6 @@ export default function MoviesPage() {
       state: { from: location },
     });
   };
-  // console.log("z MP Current location:", location);
-  // console.log("z MP List filtred ", listFiltred);
-  // console.log("z MP Sorted movies ", sortedMovies);
-  // console.log("z MP list:", list);
 
   const handleClear = () => {
     setQuery("");
